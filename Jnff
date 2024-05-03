@@ -1,0 +1,6 @@
+body{
+color:orange;
+background-color:rgb(red,orange,yellow);
+font-family:times;
+font-style:italic;
+} 
